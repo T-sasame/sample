@@ -1,7 +1,7 @@
 <?php
   $a = 3;
   $b = 7;
-  echo $a +$b;
+  echo $a + $b;
 ?>
 
 <?php
@@ -10,7 +10,7 @@
 ?>
 
 <?php
-  $hello = "Hello";
+  $hello = "Hello, ";
   $name = "Sasame";
   $world = "'sWorld!";
   echo $hello . $name . $world;
