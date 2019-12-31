@@ -65,7 +65,7 @@
         //<input type="button" id="btn" value="検索">  HTMLに追加
     // JSの課題5で変更した部分を、下記の様に更に変更
         // $('#btn').jpostal({
-				//    click : '#btn',
+        //    click : '#btn',
         //    postcode : [
         //      '#zip'
         //    ],
